@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script to ativate alfa awus1900 in monito mode autmatically
+#Script to activate alfa awus1900 in monitor mode autmatically
 
 #Look for wireless interface that starts with wlan(e.g. wlan0, wlan1. wlan2)
 
@@ -7,7 +7,7 @@ IFACE=$(iw dev | awk '$1=="Interface"{print $2}' | grep -E '^wlan[0-9]+$')
 
 #if no interface found shows error
 if [ -z "$IFACE" ]; then
-	echo "No wireles interface found"
+	echo "No wireless interface found"
 	exit 1
 fi
 
