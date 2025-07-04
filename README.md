@@ -22,7 +22,6 @@ Creado con enfoque realista, portátil y automatizable, pensado tanto para red t
 - **Aircrack-ng**, **airodump-ng**, **aireplay-ng**
 - **TShark**, **tcpdump**, **Bettercap**
 - **Python**, **Bash**
-- **Grafana + Loki** (para correlación avanzada)
 - **Docker** (para contenedores reproducibles)
 
 ---
