@@ -1,13 +1,4 @@
-███████╗███████╗ ██████╗████████╗██╗ ██████╗ ███╗   ██╗██████╗ 
 
-██╔════╝██╔════╝██╔════╝╚══██╔══╝██║██╔═══██╗████╗  ██║╚════██╗
-
-███████╗█████╗  ██║        ██║   ██║██║   ██║██╔██╗ ██║ █████╔╝
-
-╚════██║██╔══╝  ██║        ██║   ██║██║   ██║██║╚██╗██║ ╚═══██╗
-
-███████╗███████╗╚██████╗   ██║   ██║╚██████╔╝██║ ╚████║██████╔╝
-╚══════╝╚══════╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ 
              
              SECTION3 — Wireless Arsenal · by Karli
              
@@ -47,3 +38,19 @@ Creado con enfoque realista, portátil y automatizable, pensado tanto para red t
   
 ```bash
 sudo apt install aircrack-ng tshark net-tools
+
+## ⚔️ Estado del proyecto
+
+- 🧪 En fase activa de desarrollo — subiendo scripts, documentación y módulos por fases.
+
+## 📜 Disclaimer
+
+- Este proyecto es educativo y fue creado con fines de investigación y formación profesional.No está destinado a ser usado contra redes sin autorización.⚠️ Todo uso indebido es responsabilidad exclusiva del usuario.
+
+## 🧠 Autor
+
+- Desarrollado por Karli, fundador de Section 3💻 Apasionado de la ciberseguridad, el WiFi hacking y la divulgación técnica desde Uruguay al mundo.
+
+## 🧰 Contribuciones
+
+- ¿Querés aportar ideas, código o reportes? ¡Mandame un PR o abrí una issue!Este arsenal está creciendo gracias a la comunidad. 💥
