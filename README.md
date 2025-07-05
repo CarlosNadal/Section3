@@ -1,8 +1,6 @@
 ![Logo de Section3](section3_logo.png)
 
-             
-             SECTION3 — Wireless Arsenal · by Karli
-             
+            
 ## 🔥 ¿Qué es Section 3?
 
 **Section 3** es una suite de herramientas y notas diseñadas para pentesting WiFi, enfocada en la exploración, explotación y protección de redes inalámbricas.  
