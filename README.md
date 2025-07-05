@@ -1,4 +1,4 @@
-![Logo de Section3](logo.png)
+![Logo de Section3](section3_logo.png)
 
              
              SECTION3 — Wireless Arsenal · by Karli
