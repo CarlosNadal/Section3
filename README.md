@@ -38,7 +38,7 @@ Creado con enfoque realista, portátil y automatizable, pensado tanto para red t
   
 ```bash
 sudo apt install aircrack-ng tshark net-tools
-
+```
 ## ⚔️ Estado del proyecto
 
 - 🧪 En fase activa de desarrollo — subiendo scripts, documentación y módulos por fases.
