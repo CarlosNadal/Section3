@@ -22,6 +22,8 @@
 
 ## ⚙️ Extras de Configuración
 
+Usa el script section3_activate_wifi.sh o haz los siguientes pasos
+
 | Paso                    | Comando                                                                 |
 |-------------------------|-------------------------------------------------------------------------|
 | Activar modo monitor    | `sudo ip link set wlan0 down && sudo iw wlan0 set monitor control && sudo ip link set wlan0 up` |
