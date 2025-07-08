@@ -1,6 +1,7 @@
 ## 📊 Estructura del `.csv` generado por `recon.sh`
 
-![Recon.sh](recon.png)
+![recon.sh](recon.png)
+![recon-csv](recon-csv.png)
 
 El archivo se divide en **dos bloques principales**:
 
