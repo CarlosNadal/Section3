@@ -1,4 +1,4 @@
-## 📊 Estructura del `.csv` generado por `airodump-ng`
+## 📊 Estructura del `.csv` generado por `recon.sh`
 
 El archivo se divide en **dos bloques principales**:
 
