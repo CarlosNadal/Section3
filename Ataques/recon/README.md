@@ -84,4 +84,8 @@ Tené en cuenta estas pistas:
 
 ---
 
+### Resultado de best_target.py
 
+- Parsea el archivo generado por recon.sh y devuelve los mejores resultados con la informacion limpia para proyectar una strategia de ataque
+
+  ![best_target](best_target.png)
