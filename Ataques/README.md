@@ -24,7 +24,7 @@
 
 Usa el script section3_activate_wifi.sh o haz los siguientes pasos
 
-![activate-wifi][activate-wifi.png]
+![activate-wifi](activate-wifi.png)
 
 | Paso                    | Comando                                                                 |
 |-------------------------|-------------------------------------------------------------------------|
