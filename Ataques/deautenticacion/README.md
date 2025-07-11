@@ -49,7 +49,7 @@ Análisis: Si la contraseña está en la wordlist, aircrack-ng te la mostrará.
 
 ![handshake.png](handshake.png)
 
-![handshake 2.png](handhshake 2.png)
+![handshake-2.png](handhshake-2.png)
 
 ## 🛡️ Nota legal
 Este proyecto está destinado exclusivamente a usos educativos, éticos y con consentimiento.
