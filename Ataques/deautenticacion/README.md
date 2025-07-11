@@ -47,6 +47,10 @@ Crackeo: Una vez capturado el handshake (verás un [ WPA handshake: <BSSID> ]), 
 
 Análisis: Si la contraseña está en la wordlist, aircrack-ng te la mostrará.
 
+![handshake.png](handshake.png)
+
+![handshake 2](handhshake 2.png)
+
 ## 🛡️ Nota legal
 Este proyecto está destinado exclusivamente a usos educativos, éticos y con consentimiento.
 Section 3 no se responsabiliza por usos indebidos.
